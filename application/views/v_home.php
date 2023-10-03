@@ -64,7 +64,7 @@
                 <div class="col-xl-6 col-lg-7">
                     <nav class="header__menu">
                         <ul>
-                            <li class="active"><a href="<?= base_url()?>">Home</a></li>
+                            <li class="active"><a href="<?= base_url()?>">Beranda</a></li>
                             <li ><a href="<?= base_url('shop')?>">Toko</a></li>
                             <li><a href="<?= base_url('detail')?>">Detail Produk</a></li>
                             <li ><a href="<? base_url('galeri')?>">Galeri</a></li>
