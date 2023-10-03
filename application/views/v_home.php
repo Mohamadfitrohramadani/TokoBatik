@@ -65,7 +65,7 @@
                     <nav class="header__menu">
                         <ul>
                             <li class="active"><a href="<?= base_url()?>">Beranda</a></li>
-                            <li ><a href="<?= base_url('shop')?>">Toko</a></li>
+                            <li ><a href="<?= base_url('shop')?>">Toko Batik</a></li>
                             <li><a href="<?= base_url('detail')?>">Detail Produk</a></li>
                             <li ><a href="<? base_url('galeri')?>">Galeri</a></li>
                             <li ><a href="<?= base_url('contact')?>">Contact</a></li>
